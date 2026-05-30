@@ -38,7 +38,9 @@ git clone https://github.com/your-username/python-exception-handling-demo.git
 cd python-exception-handling-demo
 2️⃣ Run the Program
 python exception_handling.py
+
 📋 Example Output
+
 Successful Execution
 Program starts...
 Enter first number : 20
@@ -56,7 +58,9 @@ Program starts...
 Enter first number : abc
 Error in data : invalid literal for int() with base 10: 'abc'
 Program ends...
+
 🧠 Concepts Demonstrated
+
 Exception Handling
 try-except Blocks
 User Input Processing
@@ -67,6 +71,7 @@ Handle specific exceptions separately
 Add a finally block
 Support floating-point numbers
 Implement a menu-driven calculator
+
 Log errors to a file
 👨‍💻 Author
 
