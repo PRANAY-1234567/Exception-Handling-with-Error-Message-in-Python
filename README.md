@@ -5,12 +5,15 @@
 This project demonstrates basic exception handling in Python using a try-except block. The program takes two integer inputs from the user, performs a division operation, and handles any runtime errors gracefully by displaying the appropriate error message.
 
 🚀 Features
+
 Accepts two integer inputs from the user
 Performs division operation
 Handles exceptions without crashing the program
 Displays detailed error messages
 Beginner-friendly and easy to understand
+
 🛠️ Technologies Used
+
 Python 3
 📂 Project Structure
 ├── exception_handling.py
@@ -27,7 +30,9 @@ Handled Scenarios
 Division by zero (ZeroDivisionError)
 Invalid input (ValueError)
 Other runtime exceptions
+
 ▶️ How to Run
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/python-exception-handling-demo.git
 cd python-exception-handling-demo
