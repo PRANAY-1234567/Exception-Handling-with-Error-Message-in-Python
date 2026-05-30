@@ -79,3 +79,5 @@ Pranay Jadhao
 
 Electronics & Telecommunication Engineer
 Aspiring Software & Embedded Systems Engineer
+
+<img width="597" height="769" alt="image" src="https://github.com/user-attachments/assets/be5609f5-4a40-4e83-84e4-e88a596b9dab" />
